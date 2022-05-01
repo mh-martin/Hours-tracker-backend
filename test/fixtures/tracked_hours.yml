@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person_name: MyString
+  hours: 1.5
+  classification: MyString
+  project: one
+
+two:
+  person_name: MyString
+  hours: 1.5
+  classification: MyString
+  project: two
